@@ -1,0 +1,22 @@
+Angular uses Jasmine as its testing framework and Karma as its test runner.
+
+
+The Angular CLI sets up the testing environment for you automatically when you create a new project. The primary utility used in Angular unit tests is the TestBed which lets you configure and create components and services in a test environment.
+
+
+npm run test --> pakage.json --> angular cli based command -->  ng test
+
+ng test configured in angular .json --> tsconfig.spec.jon --> identifies all the spec files inside src and convert it from TS to JS 
+
+
+Git Modern Version control system 
+-------------------------------------
+Git - Git is a version control system that lets you manage and keep track of your source code history
+
+Github - GitHub is a cloud-based hosting service that lets you manage Git repositories
+https://github.com/
+
+Git bash -  command line tool used for execution of git commands we can download the git bash from  https://git-scm.com/downloads
+
+https://education.github.com/git-cheat-sheet-education.pdf
+
